@@ -43,8 +43,8 @@ Run the `enable_dark_mode.bat` provided in this repository to automatically laun
 
 ## 🛠️ Source Contents (源码内容)
 
-* **`scripts/enable_dark_mode.bat`**: The automation script to bypass Win7 theme limitations.
-* **`src/`**: Contains the source logic for forcing dark UI elements and custom CSS patches for legacy builds.
+* **`enable_dark_mode.bat`**: The automation script to bypass Win7 theme limitations.
+* **`DM4W7C`**: Contains the source logic for forcing dark UI elements and custom CSS patches for legacy builds.
 
 ---
 
